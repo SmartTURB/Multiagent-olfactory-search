@@ -1,0 +1,20 @@
+1
+2000
+2
+115 49 49 -1 -1 -1
+200 3. 0
+1 1
+0 0 0 0
+2
+1 0.
+1 1.
+
+# DX
+# tMax
+# Nhits
+# Source and agent positions x y z for hits from file -- if <0 drawn from lk
+# tOverlap dns_wind hits_from_emp_lk
+# rand_start start_no_hit
+# save_params save_trajs save_end save_belief_info
+# Nagents
+# num_agents weight
